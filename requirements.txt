@@ -1,3 +1,4 @@
+List of requirements -
 keras
 git+https://www.github.com/keras-team/keras-contrib.git
 matplotlib
@@ -9,3 +10,5 @@ pillow
 scikit-image
 #gzip
 #pickle
+
+Dataset used - fer2013 dataset - https://www.kaggle.com/msambare/fer2013 
